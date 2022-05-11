@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Algorithm-00BCB4?style=for-the-badge&logo=Algorithm&logoColor=white">
     <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
+    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msung99&layout=compact&theme=contrast)
 
 
 ### 📌 추후에 학습할 기술들
@@ -41,7 +43,16 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/Diango-092E20?style=for-the-badge&logo=Diango&logoColor=white"> 
 
 
+### statistics
+
+---
+
+
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=msung99">] 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msung99&show_icons=true&theme=radical)
+
+
+
 
 
