@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 
 
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmsung99&count_bg=%2379C83D&title_bg=%23555555&icon=stackshare.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
 
 ### 🏢 소속
 ---
 
-- 인하대학교 컴퓨터공학과
-- 멋쟁이사자처럼 10기 백엔드 파트
+- ##### 인하대학교 컴퓨터공학과
+- ##### 멋쟁이사자처럼 10기 백엔드 파트
 
 
 ### 💻 기술스택 
@@ -39,4 +39,9 @@ Here are some ideas to get you started:
 ---
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/Diango-092E20?style=for-the-badge&logo=Diango&logoColor=white"> 
+
+
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=msung99">] 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msung99&show_icons=true&theme=radical)
+
 
