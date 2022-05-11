@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### 🏢 소속
 ---
 
-- ##### 인하대학교 컴퓨터공학과
+- ##### 인하대학교 컴퓨터공학과 전공 (19.03~ )
 - ##### 멋쟁이사자처럼 10기 백엔드 파트
 
 
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/Diango-092E20?style=for-the-badge&logo=Diango&logoColor=white"> 
 
 
-### statistics
+### 📈 Statistics
 
 ---
 
