@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 
 ---
 
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=msung99">
 
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=msung99">] 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msung99&show_icons=true&theme=radical)
 
