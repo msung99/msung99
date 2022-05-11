@@ -1,4 +1,4 @@
-## 안녕하세요, 이민성입니다!
+# 안녕하세요, 이민성입니다!
 
 <!--
 **msung99/msung99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
