@@ -1,4 +1,4 @@
-# 안녕하세요, 이민성입니다!
+#  👓 Welcome to Min Sung's Github 👓
 
 <!--
 **msung99/msung99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmsung99&count_bg=%2379C83D&title_bg=%23555555&icon=stackshare.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
-### 🏢 소속
+### 🏢 Profile
 ---
 
 - ##### 인하대학교 컴퓨터공학과 전공 (19.03~ )
 - ##### 멋쟁이사자처럼 10기 백엔드 파트
 
 
-### 💻 기술스택 
+### 💻 Skills  
 
 ---
 
@@ -36,14 +36,14 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msung99&layout=compact&theme=contrast)
 
 
-### 📌 추후에 학습할 기술들
+### 📌 Future Skills
 
 ---
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/Diango-092E20?style=for-the-badge&logo=Diango&logoColor=white"> 
 
 
-### 📈 Statistics
+### 📈 Github Stats
 
 ---
 
