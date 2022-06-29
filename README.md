@@ -43,10 +43,10 @@ Here are some ideas to get you started:
 ### 📈 Github Stats
 
 ---
-
+#### BaekJoon Algorithm Tier (solved.ac)
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=msung99">
 
-
+#### Commits
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msung99&show_icons=true&theme=radical)
 
 
