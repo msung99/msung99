@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=JAVA&logoColor=white">
 <img src="https://img.shields.io/badge/Visual Basic-512BD4?style=for-the-badge&logo=visualbasic&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
