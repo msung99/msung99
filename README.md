@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- **내가 나아가고 싶은 삶** : [✒️ 지금까지 나, 어떻게 살아왔는가🤔](https://velog.io/@msung99/지금까지-나-어떻게-살아왔는가)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmsung99&count_bg=%2379C83D&title_bg=%23555555&icon=stackshare.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
